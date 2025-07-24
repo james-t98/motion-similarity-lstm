@@ -1,0 +1,4 @@
+supervision
+fastdtw
+dtaidistance
+mediapipe
